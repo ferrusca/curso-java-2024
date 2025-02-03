@@ -18,7 +18,7 @@ public class Trabajador {
         this.sueldo = sueldo;
     }
 
-    // STATIC: se utiliza cuando todos los ibjetos de una clase reutilizan una
+    // STATIC: se utiliza cuando todos los objetos de una clase reutilizan una
     // propiedad
     public static String nombreEmpresa = "Telvista";
 
